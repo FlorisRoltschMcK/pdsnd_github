@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+2020/11/09
 
 ### Project Title
-Replace the Project Title
+Introduction to version control
 
 ### Description
-Describe what your project is about and what it does
+This repo helps me to understand the fundamentals of version control using git and github.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This repo was forked from https://github.com/udacity/pdsnd_github as part of a udacity nanodegree project
 
