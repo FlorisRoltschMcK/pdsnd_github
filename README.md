@@ -14,5 +14,5 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-This repo was forked from https://github.com/udacity/pdsnd_github as part of a udacity nanodegree project
+This repo was forked from https://github.com/udacity/pdsnd_github as part of a udacity nanodegree project.
 
