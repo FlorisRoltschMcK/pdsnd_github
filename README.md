@@ -8,6 +8,7 @@ Introduction to version control
 This repo helps me to understand the fundamentals of version control using git and github.
 
 ### Files used
+bikeshare.py
 chicago.csv
 new_york_city.csv
 washington.csv
